@@ -1,0 +1,5 @@
+16:30:40.531 [main] INFO  testCases.LoginTestCase - **starting login testcase**
+16:30:40.558 [main] INFO  testCases.LoginTestCase - **clicking on my account**
+16:30:42.652 [main] INFO  testCases.LoginTestCase - **clicking on login**
+16:30:45.186 [main] INFO  testCases.LoginTestCase - **entering the credentias**
+16:30:51.428 [main] INFO  testCases.LoginTestCase - **login testcase is completed**

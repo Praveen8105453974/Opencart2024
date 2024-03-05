@@ -28,11 +28,11 @@ public class RegistrationTestcase {
 		Thread.sleep(2000);
 		RegisterPage rp=new RegisterPage(driver);
 		Thread.sleep(2000);
-		rp.sendFirstName("abghj");
+		rp.sendFirstName("Praveen");
 		Thread.sleep(2000);
-	    rp.sendLastName("hjkiu");
+	    rp.sendLastName("Gowda");
 	    Thread.sleep(2000);
-	    rp.sendEmail("hjuy@gmail.com");
+	    rp.sendEmail("praveengowda1310@gmail.com");
 	    Thread.sleep(2000);
          rp.sendPasword("123456");
          Thread.sleep(2000);

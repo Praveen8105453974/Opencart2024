@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-23T15:45:36 IST" name="Default suite" finished-at="2024-02-23T15:45:59 IST" duration-ms="23027">
+  <suite started-at="2024-03-01T16:31:33 IST" name="Default suite" finished-at="2024-03-01T16:31:53 IST" duration-ms="20707">
     <groups>
     </groups>
-    <test started-at="2024-02-23T15:45:36 IST" name="Default test" finished-at="2024-02-23T15:45:59 IST" duration-ms="23027">
+    <test started-at="2024-03-01T16:31:33 IST" name="Default test" finished-at="2024-03-01T16:31:53 IST" duration-ms="20707">
       <class name="testCases.RegistrationTestcase">
-        <test-method signature="OpenBrowser()[pri:1, instance:testCases.RegistrationTestcase@543295b0]" started-at="2024-02-23T15:45:36 IST" name="OpenBrowser" finished-at="2024-02-23T15:45:40 IST" duration-ms="4087" status="PASS">
+        <test-method signature="OpenBrowser()[pri:1, instance:testCases.RegistrationTestcase@543295b0]" started-at="2024-03-01T16:31:33 IST" name="OpenBrowser" finished-at="2024-03-01T16:31:35 IST" duration-ms="1938" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
-        <test-method signature="launchApp()[pri:2, instance:testCases.RegistrationTestcase@543295b0]" started-at="2024-02-23T15:45:40 IST" name="launchApp" finished-at="2024-02-23T15:45:41 IST" duration-ms="816" status="PASS">
+        <test-method signature="launchApp()[pri:2, instance:testCases.RegistrationTestcase@543295b0]" started-at="2024-03-01T16:31:35 IST" name="launchApp" finished-at="2024-03-01T16:31:35 IST" duration-ms="485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApp -->
-        <test-method signature="register()[pri:3, instance:testCases.RegistrationTestcase@543295b0]" started-at="2024-02-23T15:45:41 IST" name="register" finished-at="2024-02-23T15:45:59 IST" duration-ms="18067" status="PASS">
+        <test-method signature="register()[pri:3, instance:testCases.RegistrationTestcase@543295b0]" started-at="2024-03-01T16:31:35 IST" name="register" finished-at="2024-03-01T16:31:53 IST" duration-ms="18222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
